@@ -10,8 +10,10 @@
 
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4E03AQEBRW0VPT6EjA/profile-displayphoto-scale_400_400/B4EZjf.axPIMAg-/0/1756104342093?e=1770249600&v=beta&t=YBiFs1pXE063BZY1c05mUv1P98UQcD62-UEfO4HG5FM" width="100" height="100" style="border-radius:50%;border:3px solid #3b82f6;">
-  <img src="https://media.licdn.com/dms/image/v2/D4E03AQFHmZ807UoVbw/profile-displayphoto-scale_400_400/B4EZjVzUYSHoAo-/0/1755933661612?e=1770249600&v=beta&t=ygxIXaypLei_vctrwSLTGpoGS66c9jZJhnb85q0osD0" width="100" height="100" style="border-radius:50%;border:3px solid #3b82f6;">
+
   <img src="https://instagram.fccu9-3.fna.fbcdn.net/v/t51.2885-19/588991623_18086454038303326_5395747756438213126_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fccu9-3.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2QGego6ZGW_0QkwWHN_LQrTjNZgXhh8DdEcpXMBzEsdUXo6nPVsLxYIscwIabO3KgQCWPWRtXHxPMhZPj8159uJw&_nc_ohc=zDXa0Qpd9kUQ7kNvwHDZYrm&_nc_gid=9Ais2RXrz6OOxBBCH3V_5g&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_Afo8DNCh3ydTF2AaRYr-8mMbsg0svQBBfTazIF44Pd4-jg&oe=69728FCD&_nc_sid=7a9f4b" width="100" height="100" style="border-radius:50%;border:3px solid #3b82f6;">
+
+  <img src="https://media.licdn.com/dms/image/v2/D4E03AQFHmZ807UoVbw/profile-displayphoto-scale_400_400/B4EZjVzUYSHoAo-/0/1755933661612?e=1770249600&v=beta&t=ygxIXaypLei_vctrwSLTGpoGS66c9jZJhnb85q0osD0" width="100" height="100" style="border-radius:50%;border:3px solid #3b82f6;">
 </p>
 
 <h3 align="center">🔥 Code • Create • Conquer 🔥</h3>
