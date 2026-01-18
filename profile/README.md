@@ -1,7 +1,9 @@
 # 🚀 Blue Phoenix
 
+
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f426.svg" width="80" height="80" style="filter: hue-rotate(200deg) brightness(0.9) saturate(1.5);">
+<img src="https://avatars.githubusercontent.com/u/242945543?s=200&v=4" width="120" height="120" style="border-radius:20px;box-shadow:0 0 20px rgba(59, 130, 246, 0.5);">
   <br>
   <em>Rising from the ashes of conventional code</em>
 </p>
