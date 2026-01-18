@@ -59,7 +59,7 @@ const bluePhoenix = {
   tools: ['Git', 'Figma', 'VS Code', 'Jira', 'Postman'],
   specialities: ['AI/ML', 'Web3', 'IoT', 'AR/VR']
 };
-
+```
 graph TD
     A[💡 Innovative Idea] --> B[⚡ Rapid Prototype]
     B --> C{Scale Required?}
